@@ -1,0 +1,1 @@
+[26-Feb-2016 16:53:12 UTC] RuntimeException: Failed to start the session because headers have already been sent by "/home/ijaebel/public_html/vendor/symfony/http-foundation/Response.php" at line 1151. in /home/ijaebel/public_html/vendor/symfony/http-foundation/Session/Storage/NativeSessionStorage.php on line 144
